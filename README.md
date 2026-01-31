@@ -15,8 +15,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/BenSerg/phaseVocoderVK.git
-cd phaseVocoderVK
+git clone https://github.com/BenSerg/timeStretchingAlgo.git
+cd timeStretchingAlgo
 ```
 
 2. Установите зависимости одним из способов:
